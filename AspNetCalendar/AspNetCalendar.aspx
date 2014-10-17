@@ -1,5 +1,3 @@
-﻿<%@ Page Language="C#" %>
-
 <!DOCTYPE html>
 <html lang="ja" xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
